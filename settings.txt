@@ -1,0 +1,3 @@
+kettel volume: 1
+switch-off temperature: 100
+kettel heating time (sec): 10
