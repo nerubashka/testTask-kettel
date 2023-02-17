@@ -16,7 +16,7 @@ class Kettel:
         self.heatingTime = heatingTime
 
     def getCurTemperature(self): 
-        """Метод для проверки текущуей температуы воды"""
+        """Метод для проверки текущей температуры воды"""
         temperature = self.curTemperature
         return temperature
 
